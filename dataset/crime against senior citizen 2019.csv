@@ -1,0 +1,24 @@
+S. No (Col. 1),Crime Head (Col. 2),Cases Pending Investigation from Previous Year (Col. 3),Cases Reported during the year (Col. 4),Cases Reopened for Investigation (Col. 5),Total Cases for Investigation (Col. 6) = (Col.3+ Col.4+ Col.5),Cases Not Investigated Under 157_1_b CRPC (Col. 7),Cases Transferred to other State or Agency (Col. 8),Cases Withdrawn by the Govt during investigation (Col. 9),Final Report - Cases Ended as FR Non Cognizable (Col. 10),Final Report - Cases Ended as Final Report False (Col. 11),Final Report - Cases Ended as Mistake of Fact or of Law or Civil Dispute (Col. 12),Final Report - Cases True but Insufficient Evidence or Untraced or No Clue (Col. 13),Final Report - Cases Abated during Investigation (Col. 14),Final Report - Total (Col. 15) = (Col.10+ Col.11+ Col.12+ Col.13+ Col.14),Chargesheets submitted - Cases Chargesheeted Out of Cases from Previous Year (Col. 16),Chargesheets submitted - Cases Chargesheeted Out of Cases during the Year (Col. 17),Chargesheets submitted - Cases Chargesheeted (Col. 18) = (Col.16+ Col.17),Total Cases Disposed Off by Police (Col. 19) = (Col.7+ Col.8+ Col.15+ Col.18),Cases Quashed at Investigation Stage (Col. 20),Cases Stayed at Investigation Stage (Col. 21),Cases Pending Investigation at End of the Year (Col. 22) = (Col.6- Col.9- Col.19- Col.20),ChargeSheeting Rate (Col. 23) = (Col.18/ Col.19) *100,Pendency Percentage (Col. 24) = (Col.22/ Col.6) *100
+1,Murder,83,66,0,149,0,0,0,0,0,0,2,0,2,11,49,60,62,0,0,87,96.8,58.4
+2,Culpable Homicide not amounting to Murder,13,7,0,20,0,0,0,0,0,0,0,0,0,2,2,4,4,0,0,16,100,80
+3,Attempt to Commit Murder,28,32,0,60,0,0,0,0,0,0,0,0,0,2,17,19,19,0,0,41,100,68.3
+4,Attempt to commit Culpable Homicide,6,8,0,14,0,0,0,0,0,0,0,0,0,1,4,5,5,0,0,9,100,64.3
+5,Simple Hurt,270,397,0,667,0,0,0,0,2,3,6,0,11,37,231,268,279,1,0,387,96.1,58
+6,Grievous Hurt,93,73,0,166,0,0,0,0,2,1,1,0,4,13,42,55,59,0,0,107,93.2,64.5
+7,Assault on Women with Intent to Outrage her Modesty,24,25,0,49,0,0,0,0,0,0,1,0,1,7,11,18,19,0,0,30,94.7,61.2
+8,Kidnapping and Abduction,7,8,0,15,0,0,0,0,1,1,1,0,3,0,0,0,3,0,0,12,0,80
+9,Rape,1,6,0,7,0,0,0,0,0,0,1,0,1,0,2,2,3,0,0,4,66.7,57.1
+10,Theft ,892,1482,0,2374,0,0,0,0,1,25,816,0,842,33,259,292,1134,1,0,1239,25.7,52.2
+11,Extortion,27,34,0,61,0,0,0,0,0,0,2,0,2,3,13,16,18,0,0,43,88.9,70.5
+12,Robbery,448,280,0,728,0,0,0,0,1,0,60,0,61,51,107,158,219,0,0,509,72.1,69.9
+13,Dacoity,4,9,0,13,0,0,0,0,0,0,0,0,0,2,4,6,6,0,0,7,100,53.8
+13.1,Dacoity,4,9,0,13,0,0,0,0,0,0,0,0,0,2,4,6,6,0,0,7,100,53.8
+13.2,Dacoity with Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+14,Criminal Trespass,46,87,0,133,0,0,0,1,6,0,3,0,10,12,44,56,66,0,1,67,84.8,50.4
+15,"Forgery, Cheating & Fraud",1671,1100,0,2771,0,0,0,0,24,26,271,0,321,59,185,244,565,9,1,2197,43.2,79.3
+15.1,Fraud,93,104,0,197,0,0,0,0,9,3,27,0,39,9,9,18,57,0,0,140,31.6,71.1
+15.2,Other Cheating,1519,925,0,2444,0,0,0,0,15,18,241,0,274,45,165,210,484,9,1,1951,43.4,79.8
+15.3,Other Forgery,59,71,0,130,0,0,0,0,0,5,3,0,8,5,11,16,24,0,0,106,66.7,81.5
+16,Criminal Intimidation,25,143,0,168,0,0,0,0,1,0,2,0,3,0,123,123,126,1,0,41,97.6,24.4
+17,Other IPC Crimes,2279,1140,0,3419,0,1,0,1,2,16,257,2,278,136,530,666,945,2,0,2472,70.5,72.3
+Total Crimes against Senior Citizen,Total Crimes against Senior Citizen,5917,4897,0,10814,0,1,0,2,40,72,1423,2,1539,369,1623,1992,3532,14,2,7268,56.4,67.2

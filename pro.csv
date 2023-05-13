@@ -1,0 +1,101 @@
+﻿Gender,University,MotherName,PRN No.,Sem,Year,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+F,SPPU,NILIMA ,72036093F,6,3rd,Father,15,16,2,20,Yes,Good,Under-7,UG
+M,SPPU,SUNITA ,72036094D,6,3rd,Father,20,20,3,25,Yes,Good,Under-7,UG
+M,SPPU,AARTI ,72036095B,6,3rd,Father,10,7,0,30,No,Bad,Above-7,UG
+M,SPPU,SANGITA ,72036097B,6,3rd,Father,10,7,0,30,No,Bad,Above-7,UG
+F,SPPU,POURNIMA ,72036098G,6,3rd,Father,30,25,5,35,No,Bad,Above-7,UG
+F,SPPU,GAYATRI ,72175912C,6,3rd,Father,40,50,12,50,No,Bad,Above-7,UG
+F,SPPU,REKHA ,72175913M,6,3rd,Father,42,30,13,70,Yes,Bad,Above-7,UG
+M,SPPU,SHUBHANGI ,72036099E,6,3rd,Father,35,12,0,17,No,Bad,Above-7,UG
+F,SPPU,SANGITA ,72175914K,6,3rd,Father,50,10,15,22,Yes,Good,Under-7,UG
+M,SPPU,KOUSHALLYABAI ,72175915H,6,3rd,Father,12,21,16,50,Yes,Good,Under-7,UG
+M,SPPU,PREMILA ,72175916F,6,3rd,Father,70,80,25,70,Yes,Good,Under-7,UG
+M,SPPU,RANJANA ,71921993M,6,3rd,Father,50,88,30,80,Yes,Good,Under-7,UG
+M,SPPU,MALUTAI ,72175917D,6,3rd,Father,19,6,19,12,Yes,Good,Under-7,UG
+M,SPPU,SHOBHA ,72175918B,6,3rd,Father,5,1,0,11,No,Bad,Above-7,UG
+M,SPPU,ANITA ,72036100B,6,3rd,Father,20,14,12,19,No,Bad,Above-7,UG
+M,SPPU,MAYA ,72175919L,6,3rd,Mum,62,70,44,60,No,Bad,Above-7,UG
+M,SPPU,RAKHI ,72036101L,6,3rd,Father,30,40,22,66,Yes,Good,Under-7,UG
+M,SPPU,MINAKSHI ,72175920D,6,3rd,Father,36,30,20,80,No,Bad,Above-7,UG
+F,SPPU,SEEMA ,72036103G,6,3rd,Father,55,13,35,90,No,Bad,Above-7,UG
+M,SPPU,SUSHILA ,72036104E,6,3rd,Mum,69,15,36,96,Yes,Good,Under-7,UG
+F,SPPU,KRUSHNAVATIDEVI ,72036105C,6,3rd,Mum,70,50,40,99,Yes,Good,Under-7,UG
+F,SPPU,MANJUSHA ,72175921B,6,3rd,Father,60,60,33,90,No,Bad,Above-7,UG
+M,SPPU,PRIYA ,72036106M,6,3rd,Father,10,12,4,80,No,Bad,Under-7,UG
+M,SPPU,SUSHILA ,72175922L,6,3rd,Father,15,21,2,90,No,Bad,Under-7,UG
+M,SPPU,SARIKA ,72175923J,6,3rd,Father,2,0,2,50,No,Bad,Above-7,UG
+M,SPPU,FULABAI ,72175924G,6,3rd,Father,0,2,3,70,Yes,Good,Above-7,UG
+M,SPPU,SUNITA ,72175925E,6,3rd,Father,8,7,30,40,Yes,Good,Above-7,UG
+M,SPPU,PADMA ,72036107K,6,3rd,Father,19,19,25,40,Yes,Bad,Under-7,UG
+M,SPPU,VAISHALI  ,72036108H,6,3rd,Father,25,15,12,33,No,Bad,Above-7,UG
+F,SPPU,NANDINI ,72175926C,6,3rd,Father,75,85,52,43,Yes,Good,Under-7,UG
+F,SPPU,ROHINI ,71921973G,6,3rd,Father,30,90,33,35,No,Bad,Under-7,UG
+F,SPPU,PRADNYA ,72175927M,6,3rd,Father,35,80,50,70,Yes,Good,Under-7,UG
+F,SPPU,SHOBHA ,72036109F,6,3rd,Father,4,5,40,16,Yes,Good,Above-7,UG
+M,SPPU,SAVITA ,72175928K,6,3rd,Father,2,19,10,50,Yes,Good,Above-7,UG
+M,SPPU,MANJU ,72036110k,6,3rd,Father,8,22,9,40,No,Bad,Above-7,UG
+M,SPPU,SUMAN ,72036111H,6,3rd,Father,12,11,8,40,No,Bad,Above-7,UG
+M,SPPU,SEEMA ,72175929H,6,3rd,Father,10,12,17,30,No,Bad,Above-7,UG
+M,SPPU,AARTI ,72036112F,6,3rd,Mum,8,6,4,22,Yes,Good,Above-7,UG
+M,SPPU,USHA ,72036113D,6,3rd,Father,45,54,26,90,Yes,Good,Under-7,UG
+F,SPPU,KAWERI ,72036115L ,6,3rd,Father,0,0,0,4,No,Bad,Above-7,UG
+M,SPPU,MEENA ,72036116J,6,3rd,Father,50,90,37,70,Yes,Good,Under-7,UG
+M,SPPU,CHITRA ,72036117G,6,3rd,Father,14,13,3,70,No,Bad,Above-7,UG
+M,SPPU,SANDHYA ,72036118E,6,3rd,Father,19,20,16,50,No,Good,Under-7,UG
+F,SPPU,SANGEETA ,72036119C,6,3rd,Father,10,12,7,33,Yes,Good,Above-7,UG
+M,SPPU,DIPA ,72175930M,6,3rd,Father,30,35,28,90,Yes,Good,Under-7,UG
+M,SPPU,NILU ,72036120G,6,3rd,Father,33,33,30,90,No,Bad,Under-7,UG
+M,SPPU,CHANDA ,72036121E,6,3rd,Father,20,12,15,70,No,Good,Above-7,UG
+M,SPPU,AKSHATA ,72036122C,6,3rd,Father,7,10,1,30,No,Bad,Above-7,UG
+M,SPPU,RUPALI ,72036123M,6,3rd,Mum,70,4,39,90,Yes,Good,Under-7,UG
+F,SPPU,MANISHA ,71922002F,6,3rd,Mum,13,80,40,88,Yes,Good,Under-7,UG
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

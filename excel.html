@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>View Report</title>
+</head>
+<body>
+  <table id="csv-data"></table>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script>
+    // Function to generate the HTML table from the CSV data
+    function renderTable(data) {
+      var table = document.getElementById("csv-data");
+      var tableHTML = '<thead><tr>';
+
+      // Generate the table header row
+      Object.keys(data[0]).forEach(function(key) {
+        tableHTML += '<th>' + key + '</th>';
+      });
+
+      tableHTML += '</tr></thead><tbody>';
+
+      // Generate the table body rows
+      data.forEach(function(row) {
+        tableHTML += '<tr>';
+
+        Object.values(row).forEach(function(value) {
+          tableHTML += '<td>' + value + '</td>';
+        });
+
+        tableHTML += '</tr>';
+      });
+
+      tableHTML += '</tbody>';
+
+      table.innerHTML = tableHTML;
+    }
+
+    // Load the CSV data and render the table
+    Papa.parse('cyber_crimes.csv', {
+      header: true,
+      download: true,
+      complete: function(results) {
+        renderTable(results.data);
+      }
+    });
+  </script>
+</body>
+</html>
