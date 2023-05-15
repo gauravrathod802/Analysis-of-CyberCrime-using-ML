@@ -15,7 +15,7 @@
       </div>
       <div class="signup-box">
         <h1>SIGN UP</h1>
-        <form method="post" action="demo.php">
+        <form method="post" action="SignUp.php">
           <label>First Name</label>
           <input type="text" placeholder="" id="FirstName" name="FirstName" />
 
@@ -24,6 +24,9 @@
 
           <label>Email</label>
           <input type="email" placeholder="" id="Email" name="Email" />
+          
+          <label>Password</label>
+          <input type="Password" placeholder="" id="Password" name="Password" />
 
           <label>Phone Number</label>
           <input type="tel" placeholder="" id="PhoneNumber" name="PhoneNumber"/>
@@ -38,8 +41,13 @@
           <input type="text" placeholder="" id="State" name="State" />
 
           <input type="submit" id="signup" value="Submit" />
+
         </form>
+        <div id="error"><?php echo isset($error) ? $error : ''; ?></div>
+
         <p class="para-2">Already have an account? <a href="login.html">Login here</a></p>
+
+
       </div>
     </div>
   </body>

@@ -41,3 +41,7 @@
   #submit-btn:hover {
     background-color: #3e8e41;
   }
+  #error {
+    color: red;
+  }
+  
